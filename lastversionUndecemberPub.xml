@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <version>1.0.6</version>
+  <url>https://raw.githubusercontent.com/HeavenHeal/AutoUpdater/main/AutoUpdateUndecemberPub.zip</url>
+  <changelog>https://raw.githubusercontent.com/HeavenHeal/AutoUpdater/main/ChangeLogUndecember.html</changelog>
+  <mandatory>true</mandatory>
+</item>
