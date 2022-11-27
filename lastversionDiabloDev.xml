@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <version>2.3.9</version>
+  <url>https://raw.githubusercontent.com/HeavenHeal/AutoUpdater/main/AutoUpdateDiabloeveloper.zip</url>
+  <changelog>https://raw.githubusercontent.com/HeavenHeal/AutoUpdater/main/DiabloChangeLog.html</changelog>
+  <mandatory>true</mandatory>
+</item>
