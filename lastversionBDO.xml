@@ -2,5 +2,6 @@
 <item>
   <version>15.1.4</version>
   <url>https://raw.githubusercontent.com/HeavenHeal/AutoUpdater/main/AutoUpdaterBDO.zip</url>
+  <changelog>https://raw.githubusercontent.com/HeavenHeal/AutoUpdater/main/BDOChangeLog.html</changelog>
   <mandatory>true</mandatory>
 </item>
