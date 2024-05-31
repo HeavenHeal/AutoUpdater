@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.7.8</version>
+  <version>1.8.0</version>
   <url>https://raw.githubusercontent.com/HeavenHeal/AutoUpdater/main/WowAutoUpdater.zip</url>
   <changelog>https://raw.githubusercontent.com/HeavenHeal/AutoUpdater/main/WowChangeLog.html</changelog>
   <mandatory>true</mandatory>
