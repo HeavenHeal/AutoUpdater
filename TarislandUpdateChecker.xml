@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.1.2</version>
+  <version>1.1.3</version>
   <url>https://raw.githubusercontent.com/HeavenHeal/AutoUpdater/main/TarislandAutoUpdater.zip</url>
   <changelog>https://raw.githubusercontent.com/HeavenHeal/AutoUpdater/main/TarislandChangeLog.html</changelog>
   <mandatory>true</mandatory>
