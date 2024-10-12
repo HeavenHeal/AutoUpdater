@@ -1,0 +1,69 @@
+{
+    "resolutions": [
+        {
+            "resolution": "1920x1080",
+            "size": 54,
+            "health": "100,74,211,3",
+            "mana": "100,94,211,3",
+            "spell_region": "605,1043,13,13",
+            "spell_offset": 58,
+            "right_spells_offset_from_first_spell": 408,
+            "incombat_search_region": "548,59,24,24",
+            "monster_health_region" : "386,65,158,12"
+        },
+        {
+            "resolution": "1600x900",
+            "size": 40,
+            "health": "73,54,152,2",
+            "mana": "73,68,152,2",
+            "spell_region": "542,873,9,9",
+            "spell_offset": 42,
+            "right_spells_offset_from_first_spell": 297,
+            "incombat_search_region": "400,44,17,16"
+        },
+        {
+            "resolution": "2560x1080",
+            "size": 54,
+            "health": "100,74,211,3",
+            "mana": "100,94,211,3",
+            "spell_region": "925,1043,13,13",
+            "spell_offset": 58,
+            "right_spells_offset_from_first_spell": 408,
+            "incombat_search_region": "548,59,24,24",
+            "monster_health_region" : "386,65,158,12"
+        },
+        {
+            "resolution": "2560x1440",
+            "size": 69,
+            "health": "125,94,268,4",
+            "mana": "125,118,268,4",
+            "spell_region": "830,1392,18,18",
+            "spell_offset": 73,
+            "right_spells_offset_from_first_spell": 516,
+            "incombat_search_region": "695,75,30,30",
+            "monster_health_region" : "489,83,201,15"
+        },
+        {
+            "resolution": "3840x2160",
+            "size": 106,
+            "health": "179,134,380,5",
+            "mana": "179,168,380,5",
+            "spell_region": "1281,2092,25,25",
+            "spell_offset": 104,
+            "right_spells_offset_from_first_spell": 760,
+            "incombat_search_region": "990,110,38,38",
+            "monster_health_region" : "695,118,285,21"
+        },
+        {
+            "resolution": "5120x1440",
+            "size": 69,
+            "health": "143,94,268,4",
+            "mana": "179,118,268,4",
+            "spell_region": "2110,1392,18,18",
+            "spell_offset": 73,
+            "right_spells_offset_from_first_spell": 516,
+            "incombat_search_region": "695,75,30,30",
+            "monster_health_region" : "489,83,201,15"
+        }
+    ]
+}
