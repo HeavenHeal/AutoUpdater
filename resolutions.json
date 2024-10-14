@@ -44,6 +44,17 @@
             "monster_health_region" : "489,83,201,15"
         },
         {
+            "resolution": "2560x1600",
+            "size": 76,
+            "health": "138,103,292,4",
+            "mana": "138,130,292,4",
+            "spell_region": "787,1548,22,22",
+            "spell_offset": 80,
+            "right_spells_offset_from_first_spell": 564,
+            "incombat_search_region": "761,84,30,30",
+            "monster_health_region" : "534,91,220,16"
+        },
+        {
             "resolution": "3840x2160",
             "size": 106,
             "health": "179,134,380,5",
