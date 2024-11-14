@@ -1,6 +1,7 @@
 [
     {
         "model.onnx" : "cefe745f7512cb17cfca1f28b68cba606f0e13d08e5c8cf4102f3169a607b759",
+        "model_TL.onnx" : "f1016ff41e45473517be24a133facc24dd085f591a57daa2cedd54405438b236",
         "ch_ppocr_mobile_v2.0_cls_infer.onnx" : "cf443393df5e23f068c113f2ee5ee286918da7c386535a4ccd8c9c815d808445",
         "ch_PP-OCRv4_det_infer.onnx" : "d2a7720d45a54257208b1e13e36a8479894cb74155a5efe29462512d42f49da9",
         "ch_PP-OCRv4_rec_infer.onnx" : "a41b9e79b60be6314ab0db1a0920b1650a710489020e2de2b452821f4b5adec9"
