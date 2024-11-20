@@ -75,7 +75,11 @@
             "spell_offset": 104,
             "right_spells_offset_from_first_spell": 760,
             "incombat_search_region": "990,110,38,38",
-            "monster_health_region" : "695,118,285,21"
+            "monster_health_region" : "695,118,285,21",
+            "fishing_snap" : "1800, 1200, 255, 235",
+            "fishing_status_Region" : "2290 , 1200, 290, 190",
+            "fishing_stamina_bar" : "2235, 1185, 11, 220",
+            "bait_equipped_region" : "1715, 1935, 175, 50"
         },
         {
             "resolution": "5120x1440",
