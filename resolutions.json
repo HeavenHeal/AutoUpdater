@@ -35,10 +35,10 @@
             "right_spells_offset_from_first_spell": 408,
             "incombat_search_region": "548,59,24,24",
             "monster_health_region" : "386,65,158,12",
-            "fishing_snap" : "830, 550, 255, 235",
-            "fishing_status_Region" : "1170, 610, 270, 105",
-            "fishing_stamina_bar" : "1135, 597, 6, 125",
-            "bait_equipped_region" : "845, 955, 100, 30"
+            "fishing_snap" : "1150, 550, 255, 235",
+            "fishing_status_Region" : "1455 , 620, 275, 80",
+            "fishing_stamina_bar" : "1455, 597, 6, 125",
+            "bait_equipped_region" : "1165, 955, 100, 30"
         },
         {
             "resolution": "2560x1440",
