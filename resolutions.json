@@ -36,7 +36,7 @@
             "incombat_search_region": "548,59,24,24",
             "monster_health_region" : "386,65,158,12",
             "fishing_snap" : "1150, 550, 255, 235",
-            "fishing_status_Region" : "1455 , 620, 275, 80",
+            "fishing_status_Region" : "1480 , 600, 245, 150",
             "fishing_stamina_bar" : "1455, 597, 6, 125",
             "bait_equipped_region" : "1165, 955, 100, 30"
         },
