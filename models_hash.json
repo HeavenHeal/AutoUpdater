@@ -4,6 +4,7 @@
         "model_TL.onnx" : "63a98f877cbe74d3b1c04ca163be402a021a7e7092bd8593eba9c7d754f55564",
         "ch_ppocr_mobile_v2.0_cls_infer.onnx" : "cf443393df5e23f068c113f2ee5ee286918da7c386535a4ccd8c9c815d808445",
         "ch_PP-OCRv4_det_infer.onnx" : "d2a7720d45a54257208b1e13e36a8479894cb74155a5efe29462512d42f49da9",
-        "ch_PP-OCRv4_rec_infer.onnx" : "a41b9e79b60be6314ab0db1a0920b1650a710489020e2de2b452821f4b5adec9"
+        "ch_PP-OCRv4_rec_infer.onnx" : "a41b9e79b60be6314ab0db1a0920b1650a710489020e2de2b452821f4b5adec9",
+        "model_attacking.onnx" : "32d73acd0e2a93fe48cd6560cb948bc4e1bc7405eab40bf7f8b1a73cff319393"
     }
 ]
