@@ -1,6 +1,6 @@
 [
     {
-        "model.onnx" : "cefe745f7512cb17cfca1f28b68cba606f0e13d08e5c8cf4102f3169a607b759",
+        "model.onnx" : "b01ada202855ed8cc9a083b9113f4bdbfdbb3ff925683846a15f677dfa52fd67",
         "model_TL.onnx" : "63a98f877cbe74d3b1c04ca163be402a021a7e7092bd8593eba9c7d754f55564",
         "ch_ppocr_mobile_v2.0_cls_infer.onnx" : "cf443393df5e23f068c113f2ee5ee286918da7c386535a4ccd8c9c815d808445",
         "ch_PP-OCRv4_det_infer.onnx" : "d2a7720d45a54257208b1e13e36a8479894cb74155a5efe29462512d42f49da9",
